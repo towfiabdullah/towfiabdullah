@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abdullah towfiq
--  Graduated in islamic universty under the ict dept(2025)
+-  Graduated at islamic universty under the ict dept(2025)
 -  A javascript developer who are interested in core js
 -  Trainnee under the weekdemy program in vivasoft !(javasript,react)
 -  Trainer at Edge Project under the world bank (Javascript)
