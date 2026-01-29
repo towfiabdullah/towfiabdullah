@@ -1,12 +1,8 @@
 - 👋 Hi, I’m @Abdullah towfiq
--  Graduataed form islamic university 
--  A Software engineering enthusiasts(Javascript)
--  interested in  backend developement with node js and go programing
--  speciallity javascript core(understand deep concept) not only just using language or framework deep down the topic
--  intersted in how backend work understand the relation between operating system and computer architecture and computer networking !
--  Already  trianne javascript in the weekedeemy program of vivasoft rajshahi branch 
--  intersted in database query optimization
-- intersted in devops like docker and kubernets 
+-  A javascript developer who are interested in core js
+-  Trainnee under the weekdemy program in vivasoft !
+-  Trainer at Edge Project under the world bank (Javascript)
+-  Mentor at Programing club(c,c++,dsa)
   
 <!---
 towfiabdullah/towfiabdullah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
